@@ -294,26 +294,6 @@ public class SinvalCustodio {
 
 ---
 
-## 🏅 Troféus GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SinvalCustodio&theme=tokyonight&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🤝 Vamos nos conectar!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sinval%20Custodio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinval-custodio-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-SinvalCustodio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SinvalCustodio)
-[![Trailhead](https://img.shields.io/badge/Trailhead-Adventurer%20🏕️-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailhead.salesforce.com)
-
-</div>
-
 <div align="center">
 
 ---
