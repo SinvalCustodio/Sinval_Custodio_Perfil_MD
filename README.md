@@ -304,31 +304,6 @@ public class SinvalCustodio {
 
 ---
 
-## 🗺️ Minha Jornada
-
-```
-🏪 Varejo / Vendas           ──►   Desenvolveu visão de negócio e foco em resultados
-       │
-       ▼
-🏢 Gestão Administrativa     ──►   Processos, organização, gestão de operações
-       │
-       ▼
-💻 Transição para Tech       ──►   Java · Spring Boot · SQL · HTML · APIs REST
-       │
-       ▼
-🔒 Cybersecurity             ──►   Cisco · FIAP · CESAR School · TryHackMe
-       │
-       ▼
-☁️ Ecossistema Salesforce    ──►   Sales · Service · Marketing · Experience Cloud
-                                     Apex · SOQL · AMPscript · Platform Engineering
-       │
-       ▼
-🎯 Próximo passo             ──►   Salesforce Administrator (ADM-201)
-                                   Marketing Cloud Email Specialist
-```
-
----
-
 ## 🤝 Vamos nos conectar!
 
 <div align="center">
